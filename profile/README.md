@@ -1,6 +1,6 @@
-# About HollaLinux
+# The HollaLinux Project
 
-HollaLinux is an unofficial riscv64 port of[Slackware](http://www.slackware.com)
+HollaLinux is an unofficial riscv64 port of [Slackware](http://www.slackware.com)
 and is one of the [Tarsier Projects](https://github.com/isrc-cas/tarsier-infra). 
 
 Note that Slackware is a [trademark](http://www.slackware.com/trademark/trademark.php)
