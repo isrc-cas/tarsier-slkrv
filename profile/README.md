@@ -7,17 +7,7 @@ Note that Slackware is a [trademark](http://www.slackware.com/trademark/trademar
 of Patrick Volkerding.
 
 
-## Repositories
-
-Source:
-
-- [GitHub/HollaLinux](https://github.com/hollalinux)
-- [GitLink/HollaLinux](https://gitlink.org.cn/hollalinux)
-
-Binary:
-- [REPO](https://repo.tarsier-infra.com/Slackware-RISC-V/)
-(supported by [Tarsier Infra](https://github.com/isrc-cas/tarsier-infra))
-
+## [Repositories](/profile/repositories.md)
 
 ## [Goals](/profile/goals.md)
 
