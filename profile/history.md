@@ -15,10 +15,17 @@ Build of Hollalinux is starting from Slackware 15.0 release source tree,
 combining some upgrades from the current branch,
 and making modifications or adding patches to make it build on riscv64.
 
-The main difference to _fede2cr_'s work in source is that 
-__LIBDIRSUFFIX__ in SlackBuild scripts is set to "" raher than "64",
-because the default __LIBDIRSUFFIX__ for non-x86_64 architecture is "",
-and at first as a testing method,
-the build scripts are just executed being unchanged. 
-With the AArch64 port of Slackware using LIBDIRSUFFIX="64",
-HollaLinux will also follow this convention in future releases.
+HollaLinux now sets all `LIBDIRSUFFIX` in SlackBuild to "" for riscv64
+because the default `LIBDIRSUFFIX` for non-x86_64 architecture is "",
+and the build scripts are just executed with no modification
+being a testing method at first.
+
+There comes difference to _fede2cr_'s work in the source that `LIBDIRSUFFIX`
+is set to "64" in some of his SlackBuild scripts while
+in some others is not set and default to "".
+This makes it mostly uncompatible with HollaLinux and
+HollaLinux is not a drop-in replacement with these previous porting work.
+
+HollaLinux might follow the convention to use `LIBDIRSUFFIX="64"` 
+in future, or maybe just keep using `LIBDIRSUFFIX=""`,
+depending on whether multilib support for riscv32 is such an importance or not.

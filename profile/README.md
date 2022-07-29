@@ -18,13 +18,6 @@ Binary:
 - [TARSIER-INFRA](https://repo.tarsier-infra.com/Slackware-RISC-V/)
 
 
-## Goals
-
-- [ ] Run on Real Hardware
-- [ ] Xfce
-- [ ] X11
-- [x] Bootstrap GCC Toolchain
-- [x] Boot on QEMU no Graphic
-
+## [Goals](/profile/goals.md)
 
 ## [History](/profile/history.md)
