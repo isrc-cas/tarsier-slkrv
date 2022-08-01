@@ -25,6 +25,7 @@ Slackware.com
 SlackBuilds.org
 - https://git.slackbuilds.org/slackbuilds/
 - https://github.com/SlackBuildsOrg/slackbuilds
+- https://gitlab.com/SlackBuilds.org/slackbuilds
 - https://slackware.uk/slackbuilds.org/
 - https://mirrors.slackware.bg/slackbuilds/
 - https://git.slackware.nl/slackbuilds/
