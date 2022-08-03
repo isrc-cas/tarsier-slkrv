@@ -7,6 +7,6 @@ Note that Slackware is a [trademark](http://www.slackware.com/trademark/trademar
 of Patrick Volkerding.
 
 
-## [Repositories](/profile/repositories.md) [Download](/profile/download.md) [Documentation](/docs) 
+## [Repositories](/profile/repositories.md) [Download](/profile/download.md) [Documentation](/docs/) 
 
-## [Goals](/profile/goals.md) [History](/profile/history.md)
+## [Reports](/reports/) [Goals](/profile/goals.md) [History](/profile/history.md)
