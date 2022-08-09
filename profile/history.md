@@ -1,16 +1,17 @@
 # HollaLinux History
 
 HollaLinux was at first to build riscv64 port of Slackware from scratch
-as a mean to assess cross build capability of other distros.
+as a mean to assess cross build capability of other distros started in June 2022.
 
 There was a nice [Slackware riscv64 port](https://github.com/fede2cr/slackware_riscv)
 already done by [Alvaro Figueroa (fede2cr)](https://github.com/fede2cr),
 but it did not provide a bootable media and unfortunately 
-did not run smoothly during test within our chroot environment.
+did not run smoothly during our test within chroot environment.
 
 Later HollaLinux became a new project to build another
 riscv64 port of Slackware since we successfully achieved booting
-on QEMU. 
+on QEMU in July 2022.
+
 Build of Hollalinux is starting from Slackware 15.0 release source tree,
 combining some upgrades from the current branch,
 and making modifications or adding patches to make it build on riscv64.
