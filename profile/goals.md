@@ -9,7 +9,7 @@ that targets riscv64 only and not targeting riscv32.
 
 ToDo list
 - [ ] Run on Real Hardware
-- [ ] Start Xfce on QEMU
+- [x] Start Xfce on QEMU
 - [x] X11 servers & libraries 
 - [x] Bootstrap GCC Toolchain
 - [x] Boot on QEMU no Graphic
