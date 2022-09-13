@@ -3,6 +3,7 @@
 
 ## Progress
 
+- [20220910 Extend script to build image using LABEL](/reports/progress-20220910.md)
 - [20220825 Xfce4 available and release QEMU image](/reports/progress-20220825.md)
 - [20220815 Bootstrap OpenJDK 1.8.0](/reports/progress-20220815.md)
 - [20220811 Bootstrap Rust 1.62.1](/reports/progress-20220811.md)
