@@ -4,20 +4,21 @@ HollaLinux was at first to build riscv64 port of Slackware from scratch
 as a mean to assess cross build capability of other distros started in June 2022.
 
 There was a nice [Slackware riscv64 port](https://github.com/fede2cr/slackware_riscv)
-already done by [Alvaro Figueroa (fede2cr)](https://github.com/fede2cr),
-but it did not provide a bootable media and unfortunately 
+already done by [Alvaro Figueroa (_fede2cr_)](https://github.com/fede2cr),
+using stage4 from Fedora riscv64 port as its base.
+It did not provide a bootable media and unfortunately 
 did not run smoothly during our test within chroot environment.
 
 Later HollaLinux became a new project to build another
-riscv64 port of Slackware since we successfully achieved booting
-on QEMU in July 2022.
+riscv64 port of Slackware since we successfully made a
+bootable image on QEMU in July 2022.
 
-Build of Hollalinux is starting from Slackware 15.0 release source tree,
+Build of HollaLinux is starting from Slackware 15.0 release source tree,
 combining some upgrades from the current branch,
 and making modifications or adding patches to make it build on riscv64.
 
 HollaLinux now sets all `LIBDIRSUFFIX` in SlackBuild to `""` for riscv64
-because the default `LIBDIRSUFFIX` for non-x86_64 architecture is "",
+because the default `LIBDIRSUFFIX` for non-x86_64 architecture is `""`,
 and the build scripts are just executed with no modification
 being a testing method at first.
 
@@ -25,7 +26,8 @@ There comes difference to _fede2cr_'s work in the source that `LIBDIRSUFFIX`
 is set to `"64"` in some of his SlackBuild scripts while
 in some others is not set and default to `""`.
 This makes it mostly uncompatible with HollaLinux and
-HollaLinux is not a drop-in replacement with these previous porting work.
+HollaLinux is not a drop-in replacement with 
+any of these previous porting works.
 
 HollaLinux might follow the convention to use `LIBDIRSUFFIX="64"` 
 in future, or maybe just keep using `LIBDIRSUFFIX=""`,

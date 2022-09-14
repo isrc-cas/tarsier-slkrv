@@ -1,7 +1,6 @@
 # HollaLinux Repositories
 
 Source:
-
 - [GitHub/HollaLinux](https://github.com/hollalinux)
 - [GitLink/HollaLinux](https://gitlink.org.cn/hollalinux)
 
@@ -15,7 +14,7 @@ Portal:
 - [GitLink/portal](https://gitlink.org.cn/hollalinux/hollalinux-portal.git)
 
 
-## Upstream Repositories
+## Upstream Repositories & Mirrors
 
 Slackware.com
 - https://mirrors.slackware.com/slackware/
