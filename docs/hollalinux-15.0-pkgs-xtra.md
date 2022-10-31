@@ -8,3 +8,4 @@ with some modifications targeting riscv64.
 ## Extra Packages List
 - `liburcu-0.13.1` required to build `xfsprogs-5.15.0`
 - `nodejs-18.7.0` required to build `mozilla-firefox-103.0.2`
+- `mold-1.5.1` used instead of `gold` to build `llvm-13.0.1`
