@@ -9,7 +9,7 @@ that targets riscv64 only and not targets riscv32.
 
 ToDo list
 - [ ] Office Suite
-- [ ] Web Browser
+- [x] Web Browser
 - [ ] Media Player
 - [ ] Run on Real Hardware
 - [x] Start Xfce on QEMU
