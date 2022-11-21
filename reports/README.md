@@ -21,5 +21,6 @@
 
 ## Proposal
 
+- [ ] [20221120 Run on Allwinner D1 SoC](//reports/proposal-20221120.md)
 - [ ] [20220825 Web Browser and Media Player](/reports/proposal-20220825.md)
 - [x] [20220725 Xfce4 Desktop GUI](/reports/proposal-20220725.md)
