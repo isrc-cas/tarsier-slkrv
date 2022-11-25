@@ -2,6 +2,7 @@
 
 
 ## Progress
+- [20221125 A brief review of slackware-riscv64 ports](/reports/overview-20221125.md)
 - [20221111 Complete Build of `tcl` Subset Packages](/reports/progress-20221111.md)
 - [20221105 Update LLVM 15.0.1 to 15.0.3](/reports/progress-20221105.md)
 - [20221025 Build LLVM 13 with Clang 13 and ld.mold](/reports/progress-20221025.md)
@@ -20,7 +21,6 @@
 
 
 ## Proposal
-
 - [ ] [20221120 Run on Allwinner D1 SoC](/reports/proposal-20221120.md)
 - [ ] [20220825 Web Browser and Media Player](/reports/proposal-20220825.md)
 - [x] [20220725 Xfce4 Desktop GUI](/reports/proposal-20220725.md)
