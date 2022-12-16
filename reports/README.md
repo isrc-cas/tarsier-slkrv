@@ -2,6 +2,7 @@
 
 
 ## Progress
+- [20221210 SlackBuilds python and perl packages](/reports/progress-20221210.md)
 - [20221125 A brief review of slackware-riscv64 ports](/reports/overview-20221125.md)
 - [20221111 Complete Build of `tcl` Subset Packages](/reports/progress-20221111.md)
 - [20221105 Update LLVM 15.0.1 to 15.0.3](/reports/progress-20221105.md)
